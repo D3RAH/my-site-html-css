@@ -1,0 +1,149 @@
+/*****************************BLOCK_ELEMENT***********************/
+a {
+    color: #11999E;
+    font-family: 'merriwether', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hover {
+    color: #eaf6f6;
+}
+body {
+    color: #40514E;
+    background-color: #fdfdfd;
+    margin: 0px;
+    text-align: center;
+    font-family: 'merriwether', serif;
+    font-size: 100%;
+}
+hr {
+    width: 4%;
+    border-style: dotted;
+    border-top-style: dotted;
+    border-bottom-style: none;
+    border-width: 5px;
+    border-color: #868b8b;
+    margin: 50px auto ;
+    
+}
+h1 {
+    font-size: 4.612rem;
+    font-family: 'Sacramento',  Sacramento;
+    margin: 50px auto 0 auto;
+    padding-top: 50px;
+    width:100%;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+h2 {
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 2rem;
+    color: #66bfbf;
+    font-weight: normal;
+    margin-top: 0px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+span {
+    text-decoration: underline;
+}
+
+
+/*****************************CLASS_ELEMENT*********************** #96E5D1*/
+.author {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 150px;
+    bottom: 300px;
+}
+.btn {
+    background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #cce0ed);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #cce0ed);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #cce0ed);
+    background-image: -o-linear-gradient(top, #3cb0fd, #cce0ed);
+    background-image: linear-gradient(to bottom, #3cb0fd, #cce0ed);
+    text-decoration: none;
+  }
+.camera {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.contact-me {
+    line-height: 2;
+}
+.emmanuel-img {
+    height: 220px;
+    width: 190px;
+}
+.in-need {
+    margin-top: 0px;
+    font-size: 1rem;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.mountain {
+    height: 250px;
+    width: 450px;
+}
+.top-cloud {
+    position:absolute;
+    right: 180px;
+    top: 100px;
+    
+    
+}
+.top-container {
+    background-color: #e4f9f5;
+    position:relative;
+    padding-top: 50px;
+}
+.skill-row {
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-break: 2;
+}
+
+.middle-container{ 
+    margin: 100px auto;
+}
+.bottom-container{
+    line-height: 2;
+    background-color: #66BFBF;
+    margin: 0;
+    padding: 40px 0 20px;
+}
